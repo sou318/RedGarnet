@@ -1,0 +1,10 @@
+{
+    "parent": "block/template_dd_vertical",
+    "ambientocclusion": false,
+    "textures": {
+        "particle": "block/dd/dispenser_front_vertical",
+        "top": "block/dd/dispenser_front_vertical",
+        "side": "block/dd/top_arrow",
+        "bottom": "block/dd/top"
+    }
+}

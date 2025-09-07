@@ -1,0 +1,11 @@
+{
+    "parent": "block/template_dd",
+    "ambientocclusion": false,
+    "textures": {
+        "particle": "block/dd/dropper_front",
+        "front": "block/dd/dropper_front",
+        "side": "block/dd/side",
+        "side_arrow": "block/dd/side_arrow",
+        "top_arrow": "block/dd/top_arrow"
+    }
+}

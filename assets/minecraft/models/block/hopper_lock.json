@@ -1,0 +1,10 @@
+{
+    "format_version": "1.21.6",
+    "parent": "block/hopper",
+    "textures": {
+        "top": "block/hopper/top_lock",
+        "particle": "block/hopper/outside_lock",
+        "outside": "block/hopper/outside_lock",
+        "inside": "block/hopper/inside_lock"
+    }
+}

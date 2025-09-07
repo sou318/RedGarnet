@@ -1,0 +1,12 @@
+{
+  "parent": "block/crafter",
+  "textures": {
+    "bottom": "block/crafter/bottom_triggered",
+    "top": "block/crafter/top_triggered",
+    "north": "block/crafter/north_triggered",
+    "south": "block/crafter/south_triggered",
+    "west": "block/crafter/west_triggered",
+    "east": "block/crafter/east_triggered",
+    "particle": "#north"
+  }
+}

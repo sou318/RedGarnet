@@ -1,0 +1,19 @@
+{
+    "format_version": "1.21.6",
+    "ambientocclusion": false,
+    "textures": {
+        "tex": "block/number/11",
+        "particle": "block/number/11"
+    },
+    "elements": [
+        {
+            "from": [7, 0.6, 7],
+            "to": [9, 0.6, 9],
+            "shade": false,
+            "rotation": {"angle": 0, "axis": "x", "origin": [8.5, 8, 8.5]},
+            "faces": {
+                "up": {"uv": [0, 0, 5, 5], "texture": "#tex"}
+            }
+        }
+    ]
+}
