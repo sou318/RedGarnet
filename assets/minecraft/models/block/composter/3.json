@@ -1,0 +1,6 @@
+{
+    "parent": "block/composter",
+    "textures": {
+        "side": "block/composter/side3"
+    }
+}
